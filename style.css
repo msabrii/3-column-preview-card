@@ -133,9 +133,10 @@ body {
     }
 
     .column {
-        height: 70%;
+        height: 80%;
         width: 30%;
         justify-content: space-evenly;
+        padding-left: 60px;
     }
 
     .column img{
@@ -150,10 +151,12 @@ body {
         width: 26ch;
         line-height: 2;
         font-size: 1rem;
+        margin-top: -20px;
     }
 
     .button {
         height: 2.5rem;
-        border-radius: 1.5rem   ;
+        border-radius: 1.5rem;
+        width: 45%;
     }
 }
